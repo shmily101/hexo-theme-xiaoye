@@ -57,7 +57,7 @@ function _createClass(e, r, t) {
 }
 var peopleConfig = {
     src: GLOBAL_CONFIG.peoplecanvas.img,
-    rows: 15,
+    rows: 3,
     cols: 7,
   },
   randomRange = function (e, r) {
